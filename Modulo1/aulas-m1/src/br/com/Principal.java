@@ -15,7 +15,7 @@ public class Principal {
         System.out.println(primitivos.longo);
 
 //        System.out.println("Minhas tarefas");
-        Tarefa tarefa1 = new Tarefa("Regar as plantas"); // chamo a classe tarefa, atribuo um nome p ela, e crio uma nova Tarefa passando como parametro o que eu quero criar
+        Tarefa tarefa1 = new Tarefa("Regar as plantas logo depois da hora do jantar"); // chamo a classe tarefa, atribuo um nome p ela, e crio uma nova Tarefa passando como parametro o que eu quero criar
 //        tarefa1.exibirTarefa();
 //        System.out.println("a tarefa tem " + tarefa1.obterTamanhoTarefa() + " caracteres");
 
@@ -23,16 +23,19 @@ public class Principal {
         Tarefa tarefa3 = new Tarefa("travalhar");
 
         ListaTarefas tarefas = new ListaTarefas();
-        tarefas.adicionar(tarefa1);
+        //tarefas.adicionar(tarefa1);
         tarefas.adicionar(tarefa2);
         tarefas.adicionar(tarefa3);
         System.out.println("----------------");
         tarefas.exibirTarefas();
 
-        System.out.println("----------------");
-        EstruturaRepeticao r = new EstruturaRepeticao();
-        r.imprimirNumeros(10);
-        r.imprimirNumerosEnquanto(20);
+        Tarefa variavel = tarefas.buscar("estudar");
+        variavel.exibirTarefa();
+
+//        System.out.println("----------------");
+//        EstruturaRepeticao r = new EstruturaRepeticao();
+//        r.imprimirNumeros(10);
+//        r.imprimirNumerosEnquanto(20);
 
     }
 }
