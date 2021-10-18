@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd02ce9a-0558-4546-9eb4-e65b594f521c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/apresentacao_e_intro_a_linguagem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/out/production/apresentacao_e_intro_a_linguagem/br/com/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/out/production/apresentacao_e_intro_a_linguagem/br/com/variaveis/Objects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/out/production/apresentacao_e_intro_a_linguagem/br/com/variaveis/Primitivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/src/br/com/Principal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/src/br/com/variaveis/Objects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/apresentacao_e_intro_a_linguagem/src/br/com/variaveis/Primitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo1/metodos_construtores_e_controles_de_acesso/metodos_construtores_e_controles_de_acesso.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="cd02ce9a-0558-4546-9eb4-e65b594f521c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo1/desafios-m1" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
