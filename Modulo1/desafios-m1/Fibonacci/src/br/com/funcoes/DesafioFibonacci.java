@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DesafioFibonacci {
-  public static void main(String[] args) {
-  }
 
   public static List<Integer> fibonacci() {
     List<Integer> fibonacciList = new ArrayList<>();
@@ -16,7 +14,6 @@ public class DesafioFibonacci {
     fibonacciList.add(0);
     fibonacciList.add(1);
 
-  // fn = fn -1 + fn -2;
     while (x < limit) {
       int ult = fibonacciList.size() - 1;
       int penult = fibonacciList.size() - 2;
