@@ -1,0 +1,18 @@
+Classe
+    É um tipo estruturado que pode conter membros:
+    - atributos (dados / campos)
+    - Métodos (funções / operações)
+
+A classe também pode prover muitos outros recursos, tais como:
+    - construtores
+    - sobrecarga
+    - encapsulamento
+    - herança
+    - poliformismo
+
+Exemplos:
+    - entidades: produto, cliente, triangulo
+    - serviços: ProdutoService, ClienteService, EmailService, StorageService
+    - controladores: ProdutoController, ClienteController
+    - utilitários: Calculadora, Compadtador
+    - outros: views, repositórios, gerenciadores
